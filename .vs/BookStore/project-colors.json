@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bff40f33-0c6d-4c2f-97f6-d53fe6bd81a4": {
+      "ProjectGuid": "bff40f33-0c6d-4c2f-97f6-d53fe6bd81a4",
+      "DisplayName": "EntityViewModelDtoPractices",
+      "ColorIndex": 0
+    },
+    "c571522d-ac1e-4307-9e81-87affc218d3a": {
+      "ProjectGuid": "c571522d-ac1e-4307-9e81-87affc218d3a",
+      "DisplayName": "LinqPractices",
+      "ColorIndex": 1
+    },
+    "91737690-8b4c-4d12-9266-579e4a0a38f7": {
+      "ProjectGuid": "91737690-8b4c-4d12-9266-579e4a0a38f7",
+      "DisplayName": "MiddlewarePracticeWebApi",
+      "ColorIndex": 2
+    },
+    "2b1dd3fb-7aae-447a-9f51-488fe19e7a7b": {
+      "ProjectGuid": "2b1dd3fb-7aae-447a-9f51-488fe19e7a7b",
+      "DisplayName": "SampleWebApi",
+      "ColorIndex": 3
+    },
+    "4fb9b63f-7e5f-4980-a17a-21504f13e5b2": {
+      "ProjectGuid": "4fb9b63f-7e5f-4980-a17a-21504f13e5b2",
+      "DisplayName": "WebApi",
+      "ColorIndex": 4
+    },
+    "6007b7bd-52a2-4f2e-8805-15d7b08ccf47": {
+      "ProjectGuid": "6007b7bd-52a2-4f2e-8805-15d7b08ccf47",
+      "DisplayName": "WebApi.UnitTests",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
